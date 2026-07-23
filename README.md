@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi 👋, I'm Soorya narayan VT
 
-### data analyst | data scientist | Aspiring Software Developer | Python Enthusiast | Open Source Learner
+### Data analyst | Data scientist | Aspiring Software Developer | Python Enthusiast | Open Source Learner
 
 I'm passionate about learning new technologies and building projects that solve real-world problems. Currently improving my skills in Python, Web Development, and Git/GitHub.
 

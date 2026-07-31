@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi 👋, I'm Soorya narayan VT
 
 ### Data analyst | Data scientist | Aspiring Software Developer | Python Enthusiast | Open Source Learner

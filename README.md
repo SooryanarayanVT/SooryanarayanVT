@@ -42,9 +42,9 @@ python
 
 ## 🌐 Connect with Me
 
-- GitHub: https://github.com/
+- GitHub:https://github.com/
 - LinkedIn:https://www.linkedin.com/feed/
-- Email: 
+- Email:sooryathatarakal@gmail.com
 
 ---
 
